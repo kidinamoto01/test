@@ -50,6 +50,15 @@
 
             </dependency>
 
+            <dependency>
+
+                <groupId>org.elasticsearch.plugin</groupId>
+
+                <artifactId>x-pack-api</artifactId>
+
+                <version>5.2.2</version>
+
+            </dependency>
 
 
             <!-- log4j -->

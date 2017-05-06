@@ -56,7 +56,8 @@
     <orderEntry type="library" name="Maven: org.elasticsearch.plugin:lang-mustache-client:5.2.2" level="project" />
     <orderEntry type="library" name="Maven: com.github.spullara.mustache.java:compiler:0.9.3" level="project" />
     <orderEntry type="library" name="Maven: org.elasticsearch.plugin:percolator-client:5.2.2" level="project" />
-    <orderEntry type="library" name="Maven: org.elasticsearch.client:x-pack-transport:5.1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.elasticsearch.client:x-pack-transport:5.2.2" level="project" />
+    <orderEntry type="library" name="Maven: org.elasticsearch.plugin:x-pack-api:5.2.2" level="project" />
     <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-api:2.7" level="project" />
     <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-core:2.7" level="project" />
     <orderEntry type="library" name="Maven: org.codehaus.jackson:jackson-core-asl:1.9.13" level="project" />
